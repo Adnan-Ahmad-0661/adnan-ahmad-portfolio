@@ -71,7 +71,7 @@ function App() {
         "Home page with flight search, route selection, date and passenger options.",
     },
     {
-      src: asset("project-images/02-my-profile.png"),
+      src: asset("project-images/02-my-profile.jpg"),
       title: "User Profile",
       description:
         "Profile page showing account information, role, status and login details.",
